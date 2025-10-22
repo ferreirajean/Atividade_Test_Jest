@@ -6,9 +6,9 @@ A tarefa consiste em implementar testes para a função `somar(a, b)`, garantind
 
 Os testes devem verificar o comportamento da função nos seguintes casos:
 
-1. **Soma de Números Positivos** — Exemplo: `1 + 2`
-2. **Soma com Zero** — Exemplo: `5 + 0`
-3. **Soma com Números Negativos** — Exemplo: `10 + (-5)`
+1. **Soma de Números Positivos** — Exemplo: `10 + 5`
+2. **Soma com Zero** — Exemplo: `9 + 0`
+3. **Soma com Números Negativos** — Exemplo: `20 + (-5)`
 4. **Soma de Números Decimais (Ponto Flutuante)** — Exemplo: `0.1 + 0.2`
 
 Com isso, o estudante exercita:
